@@ -2,4 +2,4 @@
 
 ### What are capacitors?
 
-### Why we use them?
+### Why do we use them?
