@@ -4,7 +4,7 @@
 
 A coil gun is a projectile accelerator that uses magnetism to accelerate a piece of magnetic material (iron, cobalt, nickel) at a "high" velocity.
 
-![How a coil gun works](coilwork.gif)
+![How a coil gun works](/static/img/coilwork.gif)
 
 
 ### Bill of materials :
