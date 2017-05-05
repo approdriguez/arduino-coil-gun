@@ -14,7 +14,7 @@ A coil gun is a projectile accelerator that uses magnetism to accelerate a piece
 - An iron soldering kit.
 - An Arduino UNO.
 - Arduino display.
-- Arduino relay.
+- Arduino relay, 2 channels but you can use just one channel.
 - Arduino buttons.
 - Leds.
 - Resistors.
