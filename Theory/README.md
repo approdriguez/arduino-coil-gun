@@ -13,3 +13,7 @@ Because it takesa much longer time to get the same amount of energy from a batte
 ### How many capacitors may I use?
 
 You can use as many as you want but be aware that they can all be used at the same voltage.
+
+### How should I connect them?
+
+If you are using just one large capacitor you can avoid this section.
