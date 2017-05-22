@@ -23,3 +23,5 @@ Capacitors connected on parallel will add capacitance together.
 For example if we have 3 capacitors, the total capacitance will be C = c1 + c2 + c3
 
 If you connect them in serie, the total capacitance of the circuit will be lower than any single one in the circuit.
+
+It is important to know that there is NO DIFFERENCE between the amount of energy stored no matter how you connect them. But it is important to know that parallel capacitors are SAFER and more reliable than series connections.
