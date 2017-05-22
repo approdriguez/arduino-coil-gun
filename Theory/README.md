@@ -16,4 +16,10 @@ You can use as many as you want but be aware that they can all be used at the sa
 
 ### How should I connect them?
 
-If you are using just one large capacitor you can avoid this section.
+(If you are using just one large capacitor you can avoid this section.)
+
+Capacitors connected on parallel will add capacitance together.
+
+For example if we have 3 capacitors, the total capacitance will be C = c1 + c2 + c3
+
+If you connect them in serie, the total capacitance of the circuit will be lower than any single one in the circuit.
