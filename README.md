@@ -1,5 +1,8 @@
 # Arduino coil gun
 
+![Coil Gun Mark I](/static/img/coilgunmark1.jpg)
+
+
 ## What is a coil gun?
 
 A coil gun is a projectile accelerator that uses magnetism to accelerate a piece of magnetic material (iron, cobalt, nickel) at a "high" velocity.
