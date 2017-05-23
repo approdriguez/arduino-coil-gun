@@ -11,7 +11,7 @@ int minutes = 0; //start min
 int seconds = 59; //start seconds
 
 void setup() {
-  // put your setup code here, to run once:
+  
   pinMode(pinCarga, OUTPUT);
   pinMode(pinDisparo, OUTPUT);
   pinMode(TouchSensor, INPUT);
@@ -19,12 +19,12 @@ void setup() {
   digitalWrite(pinCarga,HIGH);
   digitalWrite(pinDisparo,HIGH);
   lcd.begin(16,2);
- 
+
 
 }
 
-void loop() {   
-  
+void loop() {
+
     lcd.print("TO-START!");
     lcd.setCursor(0,0);
     lcd.print("TOUCH ");
@@ -105,6 +105,3 @@ void chargeandshoot(){
       delay(2000);
       lcd.clear();
 }
-
-
-
