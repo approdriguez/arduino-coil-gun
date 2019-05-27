@@ -25,5 +25,5 @@ A coil gun is a projectile accelerator that uses magnetism to accelerate a piece
 - (Hot) Glue.
 - Careful (It may be dangerous).
 
-
+### TODO:
 ### In this repository you will find a step by step guide and many theory concepts.
